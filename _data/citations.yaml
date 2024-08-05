@@ -1,5 +1,44 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/ijms25158426
+  title: AI-Driven Deep Learning Techniques in Protein Structure Prediction
+  authors:
+  - Lingtao Chen
+  - Qiaomu Li
+  - Kazi Fahim Ahmad Nasif
+  - Ying Xie
+  - Bobin Deng
+  - Shuteng Niu
+  - Seyedamin Pouriyeh
+  - Zhiyu Dai
+  - Jiawei Chen
+  - Chloe Yixin Xie
+  publisher: International Journal of Molecular Sciences
+  date: '2024-08-01'
+  link: https://doi.org/gt5z2w
+  orcid: 0000-0002-4436-3474
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms25158032
+  title: A Comparative Analysis of SARS-CoV-2 Variants of Concern (VOC) Spike Proteins
+    Interacting with hACE2 Enzyme
+  authors:
+  - Jiawei Chen
+  - Lingtao Chen
+  - Heng Quan
+  - Soongoo Lee
+  - Kaniz Fatama Khan
+  - Ying Xie
+  - Qiaomu Li
+  - Maria Valero
+  - Zhiyu Dai
+  - Yixin Xie
+  publisher: International Journal of Molecular Sciences
+  date: '2024-07-23'
+  link: https://doi.org/gt5f76
+  orcid: 0000-0002-4436-3474
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3664923
   title: Fixed-point Encoding and Architecture Exploration for Residue Number Systems
   authors:
