@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3664923
+  title: Fixed-point Encoding and Architecture Exploration for Residue Number Systems
+  authors:
+  - Bobin Deng
+  - Bhargava Nadendla
+  - Kun Suo
+  - Yixin Xie
+  - Dan Chia-Tien Lo
+  publisher: ACM Transactions on Architecture and Code Optimization
+  date: '2024-09-14'
+  link: https://doi.org/gtvnc3
+  orcid: 0000-0002-4436-3474
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/fixed_point.png
 - id: doi:10.3390/ijms25158426
   title: AI-Driven Deep Learning Techniques in Protein Structure Prediction
   authors:
@@ -39,21 +54,6 @@
   orcid: 0000-0002-4436-3474
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1145/3664923
-  title: Fixed-point Encoding and Architecture Exploration for Residue Number Systems
-  authors:
-  - Bobin Deng
-  - Bhargava Nadendla
-  - Kun Suo
-  - Yixin Xie
-  - Dan Chia-Tien Lo
-  publisher: ACM Transactions on Architecture and Code Optimization
-  date: '2024-05-14'
-  link: https://doi.org/gtvnc3
-  orcid: 0000-0002-4436-3474
-  plugin: sources.py
-  file: sources.yaml
-  image: ../images/publications/fixed_point.png
 - id: doi:10.3390/biotech13010003
   title: 'Exploring DNA Damage and Repair Mechanisms: A Review with Computational
     Insights'
